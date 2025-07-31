@@ -3,13 +3,6 @@ layout: post
 title: Mono No Aware
 description: A pandemic project of indie folk songs reflecting on middle age. Recorded to tape on an 8-track reel-to-reel in Boston, this collection of songs tries to capture the feeling of recognizing that one day you may feel nostalgic for this moment.
 image: assets/img/monoNoAware-cover.png
-responsiveImage:
-  - src: assets/img/300.png
-    size: 300
-  - src: assets/img/600.png
-    size: 600
-  - src: assets/img/monoNoAware-cover.png
-    size: 900
 type: LP
 artists: doug holmes
 play:
