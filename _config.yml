@@ -3,7 +3,7 @@ tagline: a collection of music by doug holmes
 email: dpholmes@gmail.com
 description: >-
   Doug Holmes is an independent artist based in Boston. His music is a mix of psychedelic garage rock and cosmic Americana.
-url: "https://dougholmesmusic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dougholmesmusic.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: doug holmes
 plugins:
   - jekyll-seo-tag
