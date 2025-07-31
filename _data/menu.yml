@@ -1,0 +1,31 @@
+menu_pages:
+- title: DISCOGRAPHY
+  url: /
+  category: discography
+  tooltip: Discography tooltip
+
+- title: VIDEOS
+  url: /videos/
+  category: videos
+  tooltip: Videos tooltip
+
+- title: various melodies
+  url: /various/
+  category: various
+  tooltip: various tooltip
+
+description: 
+- about: Doug Holmes is an independent artist based in Boston. His music is a mix of psychedelic garage rock and cosmic Americana. 
+menu_contacts:
+- faicon: fab fa-spotify
+  url: https://open.spotify.com/artist/1bi1CAWMy3cvCB7gGtjY5S?si=XBjKYYtZR5eR0Vpy9dZTAw
+  target: _blank
+- faicon: fab fa-bandcamp
+  url: https://dougholmes.bandcamp.com/
+  target: _blank
+- faicon: fab fa-soundcloud
+  url: https://soundcloud.com/douglas-holmes-500425285
+  target: _blank
+- faicon: fas fa-envelope
+  url: mailto:dpholmes@gmail.com
+  target: 

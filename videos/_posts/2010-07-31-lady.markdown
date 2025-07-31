@@ -1,0 +1,9 @@
+---
+layout: post
+title: Lady
+description: Another Hundred Miles performing an acoustic version of "Lady".
+artists: dan maynard, doug holmes
+embed_player:
+  type: youtube
+  src: xyPhr6L3uHU
+---

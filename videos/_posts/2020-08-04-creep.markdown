@@ -1,0 +1,8 @@
+---
+layout: post
+title: Creep (Stone Temple Pilots)
+description: I had a day to play in the studio in August 2020, and I put together an alt.country style cover of the classic Stone Temple Pilots' song "Creep." 
+embed_player:
+  type: youtube
+  src: gjyMCYEaGW0
+---

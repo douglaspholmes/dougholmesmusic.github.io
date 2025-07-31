@@ -1,0 +1,7 @@
+author: doug holmes
+logo: assets/img/beanieBeard.png
+clickToEnlargeImages: True
+lang: en
+      description: some description describing the purpose of this consent as well as what it will collect and where send
+      cookieName: SA
+      alwaysAgree: true

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="content-container">
+    <div class="songography">
+        {{ content }}
+        <hr style="margin-bottom: 0em;">
+        <h2>{{ include.currPost.category }}</h2> 
+        {% for post in paginator.posts %}
+        {% if post.categories contains page.category %}
+        <hr style="border: none; margin: 0; height: 0;">
+        {% include songography-entry.html currPost=post %}
+        {% endif %}
+        {% endfor %}
+
+        {% include pagination-buttons.html %}
+    </div>
+</div>

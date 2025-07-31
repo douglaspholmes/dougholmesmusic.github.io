@@ -1,0 +1,15 @@
+---
+layout: songpost
+title: Song Two
+category: Basement Sessions
+artists: dan maynard, doug holmes
+play_here:
+  src: assets/audio/basement sessions/songtwo.mp3
+  name: Song Two
+  is_relative_url: true
+embed_player:
+  type: audio_file
+  src: assets/audio/basement sessions/songtwo.mp3
+  name: Song Two
+  is_relative_url: true
+---

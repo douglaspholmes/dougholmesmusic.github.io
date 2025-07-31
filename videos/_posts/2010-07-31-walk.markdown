@@ -1,0 +1,9 @@
+---
+layout: post
+title: Walk (Blind Melon)
+description: Another Hundred Miles performing an acoustic cover of Blind Melon's "Walk" off their album "Soup."
+artists: dan maynard, doug holmes
+embed_player:
+  type: youtube
+  src: p-LlqyOF3HQ
+---

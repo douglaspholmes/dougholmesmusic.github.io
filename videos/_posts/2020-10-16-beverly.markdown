@@ -1,0 +1,8 @@
+---
+layout: post
+title: Beverly
+description: Beverly is the first single off my debut album, "Mono No Aware." 
+embed_player:
+  type: youtube
+  src: mYSXzvvpiME
+---

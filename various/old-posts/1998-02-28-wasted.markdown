@@ -1,0 +1,15 @@
+---
+layout: songpost
+title: Wasted
+category: Anastasia
+artists: dan maynard, doug holmes, pat sheehan
+play_here:
+  src: assets/audio/anastasia/wasted.mp3
+  name: Wasted
+  is_relative_url: true
+embed_player:
+  type: audio_file
+  src: assets/audio/anastasia/wasted.mp3
+  name: Wasted
+  is_relative_url: true
+---

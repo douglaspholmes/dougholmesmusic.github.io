@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="content-container">
+    <div class="videography">
+        {{ content }}
+        {% for post in paginator.posts %}
+        {% if post.categories contains page.category %}
+        <hr>
+        {% include videography-entry.html currPost=post %}
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div style="float: bottom;">
+        {% include pagination-buttons.html %}
+    </div>
+</div>

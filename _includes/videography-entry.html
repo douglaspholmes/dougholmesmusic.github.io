@@ -1,0 +1,49 @@
+<article class="discography-album">
+    <section>
+        <div style="width: 60%; float:left">
+            {% if include.currPost.external_url %}
+            <a href="{{ include.currPost.external_url | relative_url }}" target="_blank">
+                {% else %}
+                {% if include.currPost.embed_player %}
+                    {% if include.currPost.embed_player.type ==	"audio_file" %}
+                        {% include music-player.html audioData=include.currPost.embed_player %}
+                    {% else %}
+                    <iframe
+                        class="embedded-player hidden"
+                        givenSrc="{{include.currPost.embed_player.src}}"
+                        type="{{include.currPost.embed_player.type}}"
+                        allow="encrypted-media; picture-in-picture"
+                        height="80"
+                        frameborder="0"
+                        scrolling="no">
+                    </iframe>
+                {% endif %}
+            {% endif %}
+         </div>
+         
+         <div style="width: 40%; float:right">
+            <a href="{{ include.currPost.url | relative_url }}">
+                {% endif %}
+                <h2 class="discography-album_title">
+                    {{ include.currPost.title }}
+                </h2>
+            </a>
+            <p class="discography-album_summary" style = "font-size: 0.85em; margin-bottom: 2em;">
+                {% if include.currPost.description %}
+                {{ include.currPost.description }}
+                {% else %}
+                {{ include.currPost.excerpt | strip_html }}
+                {% endif %}
+            </p>
+            <p class="discography-album_release-date" style = "font-size: 0.85em;">
+                performance: {{ include.currPost.date | date_to_long_string }}
+            </p>
+            {% if include.currPost.artists %}
+            <p class="discography-album_release-date" style = "font-size: 0.85em;">
+                musicians: {{ include.currPost.artists }}
+            </p>
+            {% endif %}
+         </div>
+        </section>
+    {% include read-more.html currPost=include.currPost %}
+</article>

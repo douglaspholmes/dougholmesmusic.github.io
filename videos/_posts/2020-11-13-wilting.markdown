@@ -1,0 +1,8 @@
+---
+layout: post
+title: Wilting
+description: Wilting is the second single from my debut album, "Mono No Aware".
+embed_player:
+  type: youtube
+  src: jicvby7Qy58
+---
