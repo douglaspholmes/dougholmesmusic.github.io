@@ -29,7 +29,7 @@
             {% endfor %}
         </div>
     </div>
-    <div class="menu-contact" style="display: flex; justify-content: center; align-items: center; height: 5vh;">
+    <div class="menu-contact">
         {% for contact in site.data.menu.menu_contacts %}
         <a href="{{ contact.url | relative_url }}" target="{{ contact.target }}">
             <i class="{{ contact.faicon }}"></i>

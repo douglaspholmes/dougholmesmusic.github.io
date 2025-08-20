@@ -25,7 +25,7 @@ menu_contacts:
   url: https://dougholmes.bandcamp.com/
   target: _blank
 - faicon: fab fa-soundcloud
-  url: 
+  url: https://soundcloud.com/douglas-holmes-500425285
   target: _blank
 - faicon: fas fa-envelope
   url: mailto:dpholmes@gmail.com
