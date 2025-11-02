@@ -68,14 +68,24 @@
         &_title {
             margin-top: 0vw;
             font-size: 2em;
-            margin-bottom: 0.7em;
+            margin-bottom: -0.25em;
+            @include mobile {
+                text-align: center;
+            }
+        }
+
+        &_artist {
+            margin-top: 0vw;
+            font-size: 1.5em;
+            font-weight: normal;
+            margin-bottom: 1em;
             @include mobile {
                 text-align: center;
             }
         }
 
         &_summary {
-            margin-top: 0.1vw;
+            margin-top: 2em;
             font-size: 0.5em;
             padding-bottom: 1em;
         }

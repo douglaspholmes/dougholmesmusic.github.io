@@ -1,6 +1,6 @@
 .menu {
     $root: &;
-    background-color: #8c8c8c;
+    background-color: #745d83;
     position: fixed;
     left: 0;
     top: 0;
@@ -18,10 +18,6 @@
         flex-direction: row;
         width: 100%;
         max-height: $mobile-menu-height;
-    }
-    &.about-text {
-        color: $black;
-        font-size: 0.75em;
     }
     &.expanded--visible {
         @include mobile {
@@ -82,6 +78,11 @@
                     object-fit: contain;
                 }
             }
+        }
+        &_about-text {
+            color: $white;
+            margin-top: 3em;
+            font-size: 0.93em;
         }
         &_expand {
             display: none;

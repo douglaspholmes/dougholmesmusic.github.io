@@ -1,10 +1,11 @@
 ---
 layout: post
 title: A Thousand Weary Nights
+artist: Another Hundred Miles
 description: Tales of Americana from late nights in old farmhouses.
 image: assets/img/ahm-atwn-cover.jpg
 type: LP
-artists: doug holmes, dan maynard, ryan murphy, john lanou
+musicians: doug holmes, dan maynard, ryan murphy, john lanou
 play:
     - name: Spotify
       url: https://open.spotify.com/album/1H3UTb50XSn09muNCjg3vN?si=RRIRUUgrTims0ItN3LYY4w

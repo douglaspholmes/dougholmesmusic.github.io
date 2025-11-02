@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Move the Fader
+artist: Another Hundred Miles
 description: Lonesome cowpunk, dusted ambitions, railroad beats, and broken hearts.
 image: assets/img/ahm-mtf-cover.jpg
 type: LP
-artists: doug holmes, dan maynard
+musicians: doug holmes, dan maynard
 play:
     - name: Spotify
       url: https://open.spotify.com/album/2GxrZVjXQDFpJZ89QjdL0J?si=YT2RPqnzQaC-sCzm3V2lMA

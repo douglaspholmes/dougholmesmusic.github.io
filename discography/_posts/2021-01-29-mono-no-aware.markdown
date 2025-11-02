@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Mono No Aware
+artist: Doug Holmes
 description: A pandemic project of indie folk songs reflecting on middle age. Recorded to tape on an 8-track reel-to-reel in Boston.
 image: assets/img/monoNoAware-cover.png
 type: LP
-artists: doug holmes
+musicians: doug holmes
 play:
     - name: Spotify
       url: https://open.spotify.com/album/1iI5grPON71badVkX9nnvq?si=5B79OEYaTTukBPGsT2kE4w
