@@ -36,14 +36,14 @@
             }
 
             @include mobile {
-                width: 40vw;
-                height: 40vw;
+                width: 90vw;
+                height: 90vw;
                 margin: auto;
 
                 img {
-                    width: 40vw;
-                    height: 40vw;
-                    max-height: 40vw;
+                    width: 90vw;
+                    height: 90vw;
+                    max-height: 90vw;
                 }
             }
         }
