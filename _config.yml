@@ -14,9 +14,9 @@ plugins:
 markdown: kramdown
 remote_theme: ItsPatrq/minimal-music-project
 permalink: /:title.html
+future: true
 pagination:
   enabled: true
-  future: true
   per_page: 10
   limit: 0
   sort_field: 'date'
