@@ -16,5 +16,5 @@ play:
 
 embed_player:
   type: spotify
-  src: 0yfstO1CiJLmhIw9dQNOKY
+  src: 5WDJc4aQacrF32kZkIleIg
 ---
