@@ -3,7 +3,7 @@ layout: post
 title: Boston Sand & Gravel
 artist: Paperwaves
 description: Psychadelic downtempo chamber rock.
-image: assets/img/paperwaves-bsag.png
+image: assets/img/paperwaves-bsag-sm.jpg
 type: LP
 musicians: doug holmes
 play:
