@@ -1,24 +1,15 @@
----
----
-// {% if site.data.metaData.lightTheme %}
-// @import "./variables/light-theme";
-// {% else %}
-// @import "./variables/black-theme";
-// {% endif %}
-@import "minimal-music-project";
-
 /*! div style */
 .gallery
 .image-gallery {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill,minmax(100px, 1fr));
     justify-content: center;
-    padding: 1px;
+    padding: 2px;
 }
 
 .box {
-    flex-basis: 35%;
+    flex-basis: 25%;
     width: 100%;
     padding: 5px;
     margin: 2px;

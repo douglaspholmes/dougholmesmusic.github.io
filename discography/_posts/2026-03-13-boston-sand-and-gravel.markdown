@@ -6,6 +6,8 @@ description: Psychadelic downtempo chamber rock.
 image: assets/img/paperwaves-bsag-sm.jpg
 type: LP
 musicians: doug holmes
+mastering: <a href="https://www.peerlessmastering.com/">Peerless Mastering</a>
+
 play:
     - name: Spotify
       url: https://open.spotify.com/album/0yfstO1CiJLmhIw9dQNOKY?si=8BkG8tgfQvSmGCFW1SSKYQ

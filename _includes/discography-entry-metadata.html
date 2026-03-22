@@ -9,8 +9,14 @@
 {% endif %}
 
 {% if include.currPost.musicians %}
-<p class="discography-album_release-date"  style="font-size: 0.8em; margin-bottom: 1em;"">
+<p class="discography-album_release-date"  style="font-size: 0.8em; margin-bottom: -0.4em;"">
     musicians: {{ include.currPost.musicians }}
+</p>
+{% endif %}
+
+{% if include.currPost.mastering %}
+<p class="discography-album_release-date"  style="font-size: 0.8em; margin-bottom: 1em;"">
+    mastering: {{ include.currPost.mastering }}
 </p>
 {% endif %}
 

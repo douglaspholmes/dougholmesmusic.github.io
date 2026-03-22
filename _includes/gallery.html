@@ -1,0 +1,18 @@
+  <div class="image-gallery">
+    {% assign sorted = site.static_files | sort: 'date' | reverse %}
+    {% for file in sorted %}
+     {% assign include_folder = '/art/thumbs/' %}   
+      {% if file.path contains include_folder %}
+       {% if file.extname == '.jpg' %}
+           {% assign filenameparts = file.path | split: "/" %}
+           {% assign filename = filenameparts | last | replace: file.extname, "" %}
+           {% assign img_path = '/art/img/' | append: filename | append: ".jpg" %}
+       <div class="box"><a href="{{ file.path | relative_url }}" title="{{ filename }}">
+         <img src="{{ file.path | relative_url }}" alt="{{ filename }}"  class="img-gallery" />
+       </a></div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+   </div>
+
+   <!-- {{ site.thumbsurl }}{{file.name }} -->

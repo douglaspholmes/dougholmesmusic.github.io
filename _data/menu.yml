@@ -1,8 +1,13 @@
 menu_pages:
-- title: DISCOGRAPHY
+- title: MUSIC
   url: /
   category: discography
-  tooltip: Discography tooltip
+  tooltip: Music tooltip
+
+- title: ART
+  url: /art/
+  category: art
+  tooltip: Art tooltip
 
 - title: VIDEOS
   url: /videos/
