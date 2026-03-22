@@ -6,6 +6,7 @@ description: A pandemic project of indie folk songs reflecting on middle age. Re
 image: assets/img/monoNoAware-cover.png
 type: LP
 musicians: doug holmes
+mastering: <a href="https://www.vikingguitar.com/">Viking Guitar Productions</a>
 play:
     - name: Spotify
       url: https://open.spotify.com/album/1iI5grPON71badVkX9nnvq?si=5B79OEYaTTukBPGsT2kE4w
