@@ -6,6 +6,7 @@ description: Tales of Americana from late nights in old farmhouses.
 image: assets/img/ahm-atwn-cover.jpg
 type: LP
 musicians: doug holmes, dan maynard, ryan murphy, john lanou
+mastering: JJ Golden, <a href="https://goldenmastering.com/">Golden Mastering</a>
 play:
     - name: Spotify
       url: https://open.spotify.com/album/1H3UTb50XSn09muNCjg3vN?si=RRIRUUgrTims0ItN3LYY4w

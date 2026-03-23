@@ -6,7 +6,7 @@ description: Psychadelic downtempo chamber rock.
 image: assets/img/paperwaves-bsag-sm.jpg
 type: LP
 musicians: doug holmes
-mastering: <a href="https://www.peerlessmastering.com/">Peerless Mastering</a>
+mastering: Jeff Lipton at <a href="https://www.peerlessmastering.com/">Peerless Mastering</a>, Boston, MA. Assistant Mastering Engineer: Costanza Tinti
 
 play:
     - name: Spotify

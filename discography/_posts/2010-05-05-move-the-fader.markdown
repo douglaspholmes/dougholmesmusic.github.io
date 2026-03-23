@@ -6,6 +6,7 @@ description: Lonesome cowpunk, dusted ambitions, railroad beats, and broken hear
 image: assets/img/ahm-mtf-cover.jpg
 type: LP
 musicians: doug holmes, dan maynard
+mastering: Scott Hull, <a href="https://www.masterdisk.com/scott-hull">Masterdisk</a>
 play:
     - name: Spotify
       url: https://open.spotify.com/album/2GxrZVjXQDFpJZ89QjdL0J?si=YT2RPqnzQaC-sCzm3V2lMA
